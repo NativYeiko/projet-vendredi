@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://nativyeiko.github.io/projet-vendredi/"
 languageCode = "fr-fr"
 title = "Athena Développer"
 theme = "hugo-agency-theme"
@@ -141,21 +141,21 @@ googleAnalytics = ""
 
     [[params.about.events]]
       img = "2.jpg"
-      date = "March 2011"
-      title = "An Agency is Born"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      date = "Décembre 2017"
+      title = "Premier Partenaire"
+      description = "Le 14 décembre 2017 nous avons réussie a signer un partenaria avec les entrepreneur du CMS Hugo grace a cela nous pouvous vous assurer d'un service de qualité!"
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "December 2012"
-      title = "Our Humble Beginnings"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      date = "Janvier 2018"
+      title = "Nouveaux Locaux"
+      description = "En ce début de l'année 2018 nous avons enfin nos locaux a Nous! C'est pour cela que nous sommes fier de vous accueillir a la Roche sur you 18 avenue de Napoléon de 9h a 18h!"
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "July 2014"
-      title = "Phase Two Expansion"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      date = "Mars 2018"
+      title = "Contrat Au Japon"
+      description = " Début mars 2018 Intel qui détener une pars des marcher au Japon nous confia sa partie dévelopement web, grace a cela nous avons recruter 70 développer!"
 
 
   # Team section
