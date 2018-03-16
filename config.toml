@@ -17,8 +17,8 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Your name"
-  description = "Your description"
+  name = "Aymeric Ragazzi "
+  description = "Jeunne développer vous montre sa template simple pour s'inspirer"
 
   # Link custom assets relative to /static
   custom_css = []
